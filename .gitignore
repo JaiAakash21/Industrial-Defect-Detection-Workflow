@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Outputs
+*.log
+scan_report.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
