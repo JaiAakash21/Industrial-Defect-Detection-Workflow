@@ -1,5 +1,7 @@
 # Industrial Defect Detection & Anomaly Analysis Workflow
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit----learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
 ## Overview
 
 This project implements an end-to-end computer vision workflow for industrial defect inspection using the MANGO Workflow Platform.
@@ -196,3 +198,11 @@ Backend Development | Machine Learning | Computer Vision | Workflow Automation
 
 GitHub: https://github.com/JaiAakash21
 LinkedIn: www.linkedin.com/in/jaiaakash21
+
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## Author
+
+Built by [Jai Aakash S](https://github.com/JaiAakash21) · [Portfolio](https://jaiaakash.xyz) · [LinkedIn](https://www.linkedin.com/in/jaiaakash21)
